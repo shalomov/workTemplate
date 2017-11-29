@@ -19,3 +19,6 @@ It's easy Gulp+Pug+SASS boilerplate
 	├── gulpfile.js             # gulp.js config
 	├── LICENSE                 # License file
 	├── README.md               # File you read
+
+
+browser-sync start --server --files "css/*.css"
