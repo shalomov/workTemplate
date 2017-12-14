@@ -21,5 +21,5 @@ It's easy Gulp+Pug+SASS boilerplate
 	├── README.md               # File you read
 
 
-browser-sync start --server --files "*.*"
-bower list --path
+##browser-sync start --server --files "*.*"
+##bower list --path
