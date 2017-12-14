@@ -22,3 +22,4 @@ It's easy Gulp+Pug+SASS boilerplate
 
 
 browser-sync start --server --files "*.*"
+bower list --path
